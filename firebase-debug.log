@@ -1,0 +1,21 @@
+[debug] [2022-07-18T21:46:24.452Z] ----------------------------------------------------------------------
+[debug] [2022-07-18T21:46:24.453Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init firestore
+[debug] [2022-07-18T21:46:24.453Z] CLI Version:   11.3.0
+[debug] [2022-07-18T21:46:24.453Z] Platform:      win32
+[debug] [2022-07-18T21:46:24.453Z] Node Version:  v16.14.0
+[debug] [2022-07-18T21:46:24.455Z] Time:          Mon Jul 18 2022 18:46:24 GMT-0300 (Atlantic Daylight Saving Time)
+[debug] [2022-07-18T21:46:24.455Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-18T21:46:24.461Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-18T21:46:24.461Z] > authorizing via signed-in user (serverless5410@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Sem3\Serverless\Project\csci5410_group18
+
